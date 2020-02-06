@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e997e02-a230-41b8-bff7-0e3c1b76ddfb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XJcCtzXTCQy7Q9sVbgwoSYZgal" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.grunt.grunt-cli.package" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Truman\PycharmProjects\SkriblDrawer" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="SkriblDrawer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Truman\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="SkriblDrawer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Truman\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt">
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e997e02-a230-41b8-bff7-0e3c1b76ddfb" name="Default Changelist" comment="" />
+      <created>1580767513330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580767513330</updated>
+      <workItem from="1580767514540" duration="1407000" />
+      <workItem from="1580769276184" duration="31462000" />
+      <workItem from="1580845748968" duration="203000" />
+      <workItem from="1580845981541" duration="30123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="751" y="177" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580973041761">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="751" y="177" width="1092" height="706" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580973041761" />
+    <state x="721" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580973525077">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1580973525077" />
+    <state x="740" y="285" key="FileChooserDialogImpl" timestamp="1580767536827">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="285" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1580767536827" />
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom" timestamp="1580981827757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580981827757" />
+    <state width="1877" height="347" key="GridCell.Tab.0.center" timestamp="1580981827756">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580981827756" />
+    <state width="1877" height="347" key="GridCell.Tab.0.left" timestamp="1580981827756">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580981827756" />
+    <state width="1877" height="347" key="GridCell.Tab.0.right" timestamp="1580981827757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580981827757" />
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom" timestamp="1580981827757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580981827757" />
+    <state width="1877" height="347" key="GridCell.Tab.1.center" timestamp="1580981827757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580981827757" />
+    <state width="1877" height="347" key="GridCell.Tab.1.left" timestamp="1580981827757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580981827757" />
+    <state width="1877" height="347" key="GridCell.Tab.1.right" timestamp="1580981827757">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="347" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580981827757" />
+    <state x="707" y="121" width="998" height="722" key="SettingsEditor" timestamp="1581030421621">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="121" width="998" height="722" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581030421621" />
+    <state x="1135" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1580845981555">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1135" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580845981555" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1580768674965">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1580768674965" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SkriblDrawer$Main.coverage" NAME="Main Coverage Results" MODIFIED="1580981823946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
