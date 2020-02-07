@@ -23,6 +23,7 @@ words_dict = {k: v for (k, v) in
 first_run = True
 keys_lst = []
 guessed_keys = []
+letter_hints = []
 
 
 # Method to save words to txt file at end of session
@@ -213,25 +214,28 @@ class SkribblBot:
         def gen_keys_lst():
 
             # Add somewhere, if word has a space in it, only generate words with spaces, and vice versa
-
-            global first_run
             length, word_id = find_word()
+            global first_run
             global keys_lst
             global guessed_keys
+            global letter_hints
+
             if first_run:
                 keys_lst = [key for (key, value) in g_words_dict.items() if value == length]
                 first_run = False
             print(keys_lst)
 
             if any(c.isalpha() for c in word_id):
-                letter = int
+                letter_index = int
                 temp_keys_lst = []
                 temp_word = list(word_id)
                 for i in range(len(temp_word)):
-                    if temp_word[i].isalpha():
-                        letter = i
+                    # Get new hint letter, but not if it's been used alreadyv
+                    if temp_word[i].isalpha() and i not in letter_hints:
+                        letter_index = i
+                        letter_hints.append(i)
                 for item in keys_lst:
-                    if list(item)[letter] == temp_word[letter]:
+                    if list(item)[letter_index] == temp_word[letter_index]:
                         temp_keys_lst.append(item)
                 # keys_lst = temp_keys_lst
                 keys_lst = [x for x in temp_keys_lst if x not in guessed_keys]
