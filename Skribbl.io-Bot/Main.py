@@ -24,6 +24,7 @@ first_run = True
 keys_lst = []
 guessed_keys = []
 
+
 # Method to save words to txt file at end of session
 def save_words():
     word_txt.close()
@@ -32,13 +33,13 @@ def save_words():
 
 
 def convert_image_b_and_w(keyword):
-    image = cv2.imread('C:/Users/Truman/PycharmProjects/SkriblDrawer/images/temp/' + keyword + '.png')
+    image = cv2.imread('C:/Users/Truman/Documents/GitHub/Skribbl.io-Bot/images/temp/{0}.png'.format(keyword))
     gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     (thresh, b_and_w_image) = cv2.threshold(gray_image, 127, 255, cv2.THRESH_BINARY)
     print("Converted to B&W")
     # Resize to size of fullscreen canvas on skribbl
     b_and_w_image = cv2.resize(b_and_w_image, (round(814/2), round(611/2)))
-    cv2.imwrite('C:/Users/Truman/PycharmProjects/SkriblDrawer/images/' + keyword + "BAW.png",
+    cv2.imwrite('C:/Users/Truman/Documents/GitHub/Skribbl.io-Bot/images/temp/{0}BAW.png'.format(keyword),
                 b_and_w_image)
     print("Black and white image created")
 
@@ -47,7 +48,7 @@ def convert_image_b_and_w(keyword):
 def add_words(word):
     if word not in words_dict:
         lst_words.append(word)
-        word_txt.write(word + ",'C:/Users/Truman/PycharmProjects/SkriblDrawer/images/temp/{0}BAW.png'\n".format(word))
+        word_txt.write(word + ",'C:/Users/Truman/Documents/GitHub/Skribbl.io-Bot/images/temp/{0}BAW.png'\n".format(word))
     else:
         print("Word already in dictionary")
     if word not in guess_words:
