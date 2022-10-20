@@ -2,7 +2,7 @@
 Simple bot to make guesses and draw on online game Skribbl.io
 
 Dependencies:
-OpenCV Version 4.20.32
+OpenCV Version 4.20.32,
 Selenium 3.141.0
 
 Bot can scrape word off of Skribbl.io game header, make a google search and scrape first image off images,
